@@ -20,7 +20,7 @@ This is the backend part of a simple web application that allows users to log in
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TagirSharipov/digit-backend.git
    cd backend
    ```
 
@@ -44,7 +44,7 @@ This is the backend part of a simple web application that allows users to log in
 
 - POST /login: Handles user login. Validates the provided email and password against stored credentials. Returns a JSON response with an authentication token if login is successful.
 
-- GET /: Fetches all events. Requires authentication (checkAuth middleware). Returns a JSON response containing the list of events.
+- GET /events: Fetches all events. Requires authentication (checkAuth middleware). Returns a JSON response containing the list of events.
 
 ## Important Note on Security
 
