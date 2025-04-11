@@ -21,7 +21,7 @@ This is the backend part of a simple web application that allows users to log in
 
    ```bash
    git clone https://github.com/TagirSharipov/digit-backend.git
-   cd backend
+   cd digit-backend
    ```
 
 2. Install dependencies:
