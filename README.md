@@ -1,6 +1,6 @@
 # Backend for Simple Web Application
 
-This is the backend part of a simple web application that allows users to log in and view a personalized welcome page. The backend is built using Node.js and provides the necessary APIs for user authentication and session management.
+This is the backend part of a simple web application (https://github.com/TagirSharipov/my-digit-app) that allows users to log in and view a personalized welcome page. The backend is built using Node.js and provides the necessary APIs for user authentication and session management.
 
 ## Features
 
